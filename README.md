@@ -1,5 +1,5 @@
 # DEB.EXE
-deb.exe is a debugging tool made in C++ and helps you use print statements to debug your apps.
+deb.exe is a debugging tool made in C++ and helps you use print statements to debug your apps and works with any language (hopefully).
 
 Since the dawn of time, highly specialized beings have been trained for years to make a rock infused with silicon think and do stuff like 2 + 2
 
