@@ -8,8 +8,7 @@ Jokes aside, people use print statements to debug their more often because it is
 To solve this problem, deb.exe, a toy alternative to modern debugers.
 
 Usage:> 
-`
-{
+
     int num1, num2, sum;
     cout << "hello";
 
@@ -27,13 +26,12 @@ Usage:>
     cout << "The sum of " << num1 << " and " << num2 << " is: " << sum << endl;
 
     return 0;
-}
-`
+
 Just comment the word 'deb' on the print statement of the code.
 
-then run:> {
-deb <filename>
-}
+then run:>
+
+    deb <filename>
 
 There you go!
 Enjoy ＼(ﾟｰﾟ＼)
