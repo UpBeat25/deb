@@ -7,7 +7,7 @@ Jokes aside, people use print statements to debug their more often because it is
 
 To solve this problem, deb.exe, a toy alternative to modern debugers.
 
-Usage:> 
+## Usage:> 
 
     int num1, num2, sum;
     cout << "hello";
@@ -32,6 +32,11 @@ Just comment the word 'deb' on the print statement of the code.
 then run:>
 
     deb <filename>
+
+## Download:
+
+release page [https://github.com/UpBeat25/deb/releases]
+
 
 There you go!
 Enjoy ＼(ﾟｰﾟ＼)
