@@ -9,9 +9,6 @@ To solve this problem, deb.exe, a toy alternative to modern debugers.
 
 Usage:> 
 `
-#include <iostream>
-using namespace std;
-int main()
 {
     int num1, num2, sum;
     cout << "hello";
@@ -34,7 +31,9 @@ int main()
 `
 Just comment the word 'deb' on the print statement of the code.
 
-then run:> `deb <filename>`
+then run:> {
+deb <filename>
+}
 
 There you go!
 Enjoy ＼(ﾟｰﾟ＼)
