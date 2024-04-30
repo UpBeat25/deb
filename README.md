@@ -37,6 +37,13 @@ then run:>
 
 release page [https://github.com/UpBeat25/deb/releases]
 
+step 1 > Extract the folder
+
+step 2 > Copy the folder path
+
+step 3 > Edit and add the path to environmental variables
+
+step 4 > type `deb` into the terminal
 
 There you go!
 Enjoy ＼(ﾟｰﾟ＼)
